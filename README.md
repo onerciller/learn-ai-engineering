@@ -1,4 +1,4 @@
-# Learn AI Engineering
+![Learn AI Engineering — practical tutorials and working code by Öner Çiller](assets/learn-ai-engineering-banner.png)
 
 Practical AI engineering tutorials by [Öner Çiller](https://onerciller.substack.com).
 
