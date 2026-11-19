@@ -58,8 +58,8 @@ set `$env:NOTES_SERVER_BIN` to the full server executable path before testing.
 GitHub source links in future articles must use
 `https://github.com/onerciller/learn-ai-engineering/tree/main/tutorials/<series>/part-N`.
 That main-branch URL becomes valid after this migration is committed and pushed.
-Older article folder links into `main/mcp` or `main/llm-applications` remain
-readable through short README pointers to the tutorial folders. Those compatibility
-folders contain documentation only.
+The old root `mcp/` and `llm-applications/` compatibility folders have been
+removed. Use only the `tutorials/` paths above; old root-folder links no longer
+resolve on the main branch.
 Existing scheduled article bodies and live publications are not modified by
 moving this local repository.
