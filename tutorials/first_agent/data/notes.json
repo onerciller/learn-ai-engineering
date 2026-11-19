@@ -1,0 +1,12 @@
+[
+  {
+    "id": "launch",
+    "title": "Launch plan",
+    "text": "Finish onboarding. Risk: support scope is unclear."
+  },
+  {
+    "id": "hiring",
+    "title": "Hiring plan",
+    "text": "Interview two support engineers next week."
+  }
+]

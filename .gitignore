@@ -2,3 +2,19 @@
 .env
 .env.*
 !.env.example
+
+# Shared Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Go executables built from repository-root commands
+.bin/
+
+# Local simulated agent outbox
+.local/
